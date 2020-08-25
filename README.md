@@ -1,4 +1,4 @@
-# CK108_Cluster_Champs
+# Clustering and Prediction of air objects based on its trajectory
 Repository for SIH 2020 - Problem Code : CK108 
 Problem topic: Clustering of air objects based on its trajectory : By DRDO
 
